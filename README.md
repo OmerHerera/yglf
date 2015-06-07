@@ -1,3 +1,3 @@
 YGLF Liveperson
 =======================
-[YGLF Liveperson](http://omerherera.github.io/yglf/)
+[YGLF Liveperson](http://liveperson.bitballoon.com/)
